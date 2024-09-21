@@ -1,10 +1,10 @@
-#OOP and Solid Design Principles 
+# OOP and Solid Design Principles 
 
-##Purpose
+## Purpose
 
 - Exercises practicing design principles and oop concepts in c-sharp.
 
-##How to run programs
+## How to run programs
 
 - Download VS Code.
 - Install C# Dev Kit extensions
